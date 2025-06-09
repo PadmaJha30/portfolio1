@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "PG-DAC(Post Graduate Diploma in Advanced Computing)",
+    "organisation": "CDAC",
+    "startDate": "Aug, 2024",
+    "endDate": "Feb,2025",
+    "location": "Orlando Academy,Indore, India",
+    "experiences": [
+      "Developed an E-commerce project using React and Java",
+      "Developed projects using .NET and C# and mern stack"
+    ],
+    "imageSrc": "company/cdac.png"
+  },
+  {
+    "id": 2,
+    "role": "BE -(Computer Science and Engineering)",
+    "organisation": "Lakshmi Narain College of Technology",
+    "endDate": "June, 2017",
+    "location": "Gwalior, India",
+    "experiences": [
+      "Developed a Travel project using Laravel, PHP",
+      "Worked on various academic projects"
+    ],
+    "imageSrc": "company/Lnct.png"
+  },
+  {
+    "id": 3,
+    "role": "Web Developer",
+    "organisation": "ASTechnoWeb",
+    "startDate": "Jan, 2022",
+    "endDate": "April, 2024",
+    "location": "Gwalior(M.P.), India",
+    "experiences": [
+      "Developed Frontend Project using Laravel, PHP, HTML, CSS, JavaScript",
+      "Develop WordPress Website"
+    ],
+    "imageSrc": "company/aslogo.jpg"
+  }
+]
